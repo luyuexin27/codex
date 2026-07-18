@@ -20,8 +20,8 @@ The default dataset is synthetic and deterministic, so the entire example is rep
 ## Run locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/open-geochem.git
-cd open-geochem
+git clone https://github.com/luyuexin27/codex.git
+cd codex
 python -m venv .venv
 source .venv/bin/activate       # Windows: .venv\\Scripts\\activate
 pip install -r requirements.txt
